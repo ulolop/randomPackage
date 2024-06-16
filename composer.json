@@ -1,0 +1,16 @@
+{
+    "name": "ulolop/random-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Ulolop\\RandomPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yuri Serikov",
+            "email": "ys@inmoloko.ru"
+        }
+    ],
+    "require": {}
+}
