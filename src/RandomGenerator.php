@@ -8,6 +8,7 @@ class RandomGenerator
 {
 	public function generate(int $length): string
 	{
-		return random_bytes($length);
+		$bytes = random_bytes($length);
+		return bin2hex($bytes);
 	}
 }
