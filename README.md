@@ -1,5 +1,8 @@
 # randomPackage
 
+## Requirements
+* PHP >= 7.0
+
 ## Installation
 
 You can add this library as a local, per-project dependency to your project using [Composer](https://getcomposer.org/):
