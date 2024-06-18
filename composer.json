@@ -12,5 +12,7 @@
             "email": "ys@inmoloko.ru"
         }
     ],
-    "require": {}
+    "require": {
+         "php": "^7.0"
+    }
 }
